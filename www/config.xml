@@ -13,7 +13,7 @@
 
     <content src="index.html" />
 
-    <allow-navigation href="https://mechanicmanday.com*" />
+    <allow-navigation href="*" />
 
     <gap:plugin name="cordova-plugin-whitelist" source="npm" version="~1" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
